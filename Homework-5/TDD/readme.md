@@ -28,11 +28,11 @@ Hem geleneksel test hem de TDD, sistemin test edilmesinin önemine yol açar.
 7.  Over-engineeringten(Aşırı mühendislik)kaçınmamızı sağlar.
 
 ## Test Driven Development Nasıl Gerçekleşir?
-**1. Oluşturulacak uygulamanın tasarımı yapılır.**
+- **1. Oluşturulacak uygulamanın tasarımı yapılır.**
 Tasarımla oluşturulacak tüm senaryolar belirlenir.Böylece teste fazla iş yükü bindirmeden yazmamız sağlanır.
-**2. Tasarıma göre testler yazılır.**
+- **2. Tasarıma göre testler yazılır.**
 Test yazıldıktan sonra denenir.Burada testin doğal olarak başarısız olması beklenir.
-**3 .Testleri çalıştıracağımız kod blokları yazılır.**
+- **3 .Testleri çalıştıracağımız kod blokları yazılır.**
 Kod, testten fazlasını içermemesi gerekir. Burada asıl amaç testi geçmek değil, ihtiyacı karşılamaktır.
-**4. Kodlar test edilir.**
+- **4. Kodlar test edilir.**
 Test edilen kodun süreçleri bulunur.
